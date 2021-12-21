@@ -1,6 +1,6 @@
 - 👋 Hi, **I’m Radhitya Bayu A**
 - 👀 I’m interested in Design and technology
-- 🌱 I’m currently learning web design and web development
+- 🌱 I’m currently Learning Web Design and Web Development
 - 💞️ I’m open for discussion or collaborate on any project    
 - 📫 How to reach me ->  *radbaya123@gmail.com* or 
                          *radhityabayualafima@gmail.com*
